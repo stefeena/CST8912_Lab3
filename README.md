@@ -34,17 +34,17 @@ Prof. Ragini Madaan
    Create a storage account named `labtest8912` under the student subscription and resource group `CST8912-demo` in the Canada Central region. Select geo-redundant storage (GRS), keeping the networking and data protection options as default.  
    _Score: /2_
 
-    ![Step 1 - Resource group Creation](./images/1.png "resource group Creation") 
+![Step 1 - Resource group Creation](./images/1.png "resource group Creation") 
 
 
-    ![Step 1 - Storage Account Creation](./images/2.png "Storage Account Creation") 
+ ![Step 1 - Storage Account Creation](./images/2.png "Storage Account Creation") 
 
 
 **2. Change redundancy and set blob access tier**  
    Go to your storage account resource blade, under the data management section, click the **Redundancy** tab. Change redundancy to "Local Redundant Storage (LRS)" from the dropdown. Under **Settings**, choose **Configuration** and set the blob access tier to "Cool", then save the change.  
    _Score: /2_
 
-    ![Step 2 - Change Redundancy and Blob Access Tier](./images/3.png "Change Redundancy and Blob Access Tier")  
+gitg![Step 2 - Change Redundancy and Blob Access Tier](./images/3.png "Change Redundancy and Blob Access Tier")  
 
 
 
